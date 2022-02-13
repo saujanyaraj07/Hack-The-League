@@ -62,3 +62,12 @@ Quickly open, close or evacuate queues and update guests automatically.Compensat
 
 ## How we built it 🔧
 Flutter
+
+## Screenshots
+![1](https://user-images.githubusercontent.com/88873588/153750104-63128571-6149-479d-9097-898f2d209a0c.png)
+![2](https://user-images.githubusercontent.com/88873588/153750107-3e1dc4cb-e3d1-48ba-8910-7b3f6ae88356.png)
+![3](https://user-images.githubusercontent.com/88873588/153750110-f39eedfc-e2f4-4dc4-856c-9493fff712f5.png)
+![4](https://user-images.githubusercontent.com/88873588/153750117-e97df51f-818d-4522-89c8-80f13e8983a8.png)
+![5](https://user-images.githubusercontent.com/88873588/153750121-bd53e4c0-e70c-42b5-85ae-ae56c64b5a5a.png)
+![6](https://user-images.githubusercontent.com/88873588/153750128-107ead9c-d61b-402d-bae6-51230463b550.png)
+
