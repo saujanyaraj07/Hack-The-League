@@ -49,16 +49,16 @@ Quickly open, close or evacuate queues and update guests automatically.Compensat
 
 3.)On Homepage User's Age Group is asked. The app Shows a list of Rides according to the selected age Group in order of less queue. (LESS QUEUE DIVERSION)
 
-3.)On selecting a particular Ride, its details-Description of Ride,Total Time of Ride,Select number of persons,Amount,Payment,Show User’s Queue No.,Generate QR code
+4.)On selecting a particular Ride, its details-Description of Ride,Total Time of Ride,Select number of persons,Amount,Payment,Show User’s Queue No.,Generate QR code
 
-4.)At the entry of ride, show QR Code and enjoy your ride.
+5.)At the entry of ride, show QR Code and enjoy your ride.
 
-5.)After the ride is complete,the app shows alert for next ride-NEXT RIDE IS READY/PROCEED FOR NEXT RIDE(LESS QUEUE DIVERSION). Also user can Stop this ride ,Skip this ride,Snooze this ride 
-6.)Other Attractions of amusement park-Food,Dining,live Shows/Magic shows,Gaming Arcade,Shopping,water park etc. 
+6.)After the ride is complete,the app shows alert for next ride-NEXT RIDE IS READY/PROCEED FOR NEXT RIDE(LESS QUEUE DIVERSION). Also user can Stop this ride ,Skip this ride,Snooze this ride 
+7.)Other Attractions of amusement park-Food,Dining,live Shows/Magic shows,Gaming Arcade,Shopping,water park etc. 
 
-7.)Navigation Bar of the App has features like Amusement Park map, Info button shows -Medical Emergency service,lost and found,Washroom & Drinking Water,FAQs
+8.)Navigation Bar of the App has features like Amusement Park map, Info button shows -Medical Emergency service,lost and found,Washroom & Drinking Water,FAQs
 
-8.) Also feature of Pickup facility is shown if the ride is far
+9.) Also feature of Pickup facility is shown if the ride is far
 
 ## How we built it 🔧
 Flutter
